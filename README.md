@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ aistudio-chat-cleaner
+# ⚡ optimize-json-chat
 
 **Herramienta web para limpiar y optimizar el historial de chat exportado desde Google AI Studio**
 
@@ -41,8 +41,8 @@ Los archivos JSON exportados desde **Google AI Studio** incluyen cadenas de pens
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/Facundo-Guarnier/optimizar_json_chat_aistudio.git
-cd optimizar_json_chat_aistudio
+git clone https://github.com/Facundo-Guarnier/optimize-json-chat.git
+cd optimize-json-chat
 
 # Instalar dependencias
 npm install
@@ -68,7 +68,7 @@ La aplicación estará disponible en `http://localhost:5173`
 ## 📁 Estructura del proyecto
 
 ```
-optimizar_json_chat_aistudio/
+optimize-json-chat/
 ├── public/
 │   └── assets/          # Favicon e imágenes estáticas
 ├── src/

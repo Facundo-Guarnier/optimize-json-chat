@@ -1,10 +1,10 @@
 {
-  "name": "optimizar_json_chat_aistudio",
+  "name": "optimize-json-chat",
   "screenName": "Optimizar JSON Chat AI Studio",
-  "description": "Optimizar JSON Chat AI Studio es una aplicación diseñada para mejorar la eficiencia y organización de los archivos JSON utilizados en proyectos de desarrollo. Esta herramienta permite a los desarrolladores optimizar sus archivos JSON, eliminando redundancias, mejorando la estructura y facilitando la gestión de datos. Con una interfaz intuitiva y funcionalidades avanzadas, Optimizar JSON Chat AI Studio es la solución ideal para aquellos que buscan maximizar el rendimiento de sus proyectos mediante la optimización de sus archivos JSON.",
+  "description": "Limpia historiales de chat exportados de Google AI Studio: quita las cadenas de pensamiento (isThought) y los campos internos de cada chunk, reduciendo drasticamente el tamanio del archivo sin perder la conversacion.",
   "private": true,
   "version": "2026.08.29-b8",
-  "gitURL": "https://github.com/Facundo-Guarnier/optimizar_json_chat_aistudio",
+  "gitURL": "https://github.com/Facundo-Guarnier/optimize-json-chat",
   "type": "module",
   "scripts": {
     "dev": "vite",
