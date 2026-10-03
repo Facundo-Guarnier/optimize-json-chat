@@ -3,7 +3,7 @@
   "screenName": "Optimizar JSON Chat AI Studio",
   "description": "Limpia historiales de chat exportados de Google AI Studio: quita las cadenas de pensamiento (isThought) y los campos internos de cada chunk, reduciendo drasticamente el tamanio del archivo sin perder la conversacion.",
   "private": true,
-  "version": "2026.09.27-b20",
+  "version": "2026.10.03-b22",
   "gitURL": "https://github.com/Facundo-Guarnier/optimize-json-chat",
   "type": "module",
   "scripts": {
